@@ -14,7 +14,7 @@
     width: 200px;
 }
 
-ul#menu {
+ul#menu, ul#projects-list {
     list-style: none;
 }
 
@@ -27,6 +27,16 @@ ul#menu li {
 ul#menu li a {
     text-decoration: none;
     color: black;
+}
+
+#projects-list img {
+    width: 100px;
+}
+
+.project {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: aliceblue;
 }
 
 footer {
