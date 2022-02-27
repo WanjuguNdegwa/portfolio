@@ -3,10 +3,15 @@
 }
 
 #main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    background-color: #f08080;
+}
+
+#about {
+    background-color: #f8ad9d ;
+}
+
+#projects, footer {
+    background-color: #ffdab9;
 }
 
 #main img {
