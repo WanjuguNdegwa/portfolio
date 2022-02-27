@@ -13,3 +13,18 @@
     border-radius: 50%;
     width: 200px;
 }
+
+ul#menu {
+    list-style: none;
+}
+
+ul#menu li {
+    display: inline;
+    margin: 20px;
+    letter-spacing: 2px;
+}
+
+ul#menu li a {
+    text-decoration: none;
+    color: black;
+}
