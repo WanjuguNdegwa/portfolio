@@ -11,7 +11,7 @@
 }
 
 #projects, footer {
-    background-color: #ffdab9;
+    background-color: #fbc4ab;
 }
 
 #main img {
@@ -41,7 +41,8 @@ ul#menu li a {
 .project {
     margin-top: 20px;
     padding: 10px;
-    background-color: aliceblue;
+    background-color: #ffdab9;
+    border-radius: 5px;
 }
 
 footer {
